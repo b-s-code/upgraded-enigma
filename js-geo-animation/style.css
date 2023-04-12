@@ -1,0 +1,21 @@
+.dot {
+    height: 1cm;
+    width: 1cm;
+    position: fixed;
+    bottom: 0cm;
+    left: 0cm;
+    border: 1px solid black; /* stroke */
+    border-radius: 1.5cm; /* edge shape, not really border */
+}
+
+#greenDot {
+    background-image: linear-gradient(135deg, aqua, #00FF00);
+}
+
+#redDot {
+    background-image: linear-gradient(135deg, #FFFF00, red);
+}
+
+#blueDot {
+    background-image: linear-gradient(135deg, aqua, blue);
+}
