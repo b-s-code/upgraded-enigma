@@ -1,7 +1,6 @@
 # Two's complement rep. of an integer
 
 ```math
-$
 \text{(so that I don't have to keep skimming throught long winded explanations on the internet)}
 \\
 \\
@@ -15,5 +14,4 @@ $
 \\
 \\
 \text{where } \underline{x} = [x_{k - 1}, x_{k - 2}, ..., x_0] \text{, i.e. } k = \text{bit vector length.}
-$
 ```
